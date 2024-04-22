@@ -1,4 +1,12 @@
 ### Hi there 👋
+![image](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{mikeybob}1212%2Fhit-counter)
+
+![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mikeybob&theme=nord_dark)
+
+
+
+
+<!-- ![image](https://gists-readme.yizack.com/api/pin?user=mikeybob&id=mikeybob&owner=true) -->
 
 <!--
 **mikeybob/mikeybob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
