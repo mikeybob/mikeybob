@@ -2,7 +2,7 @@
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mikeybob&theme=nord_dark) 
 
 ### Hi there 👋 
-- I’m currently working on a Textual based TUI for Matrix-Synapse.
+- I’m currently working on a private Django project.
 
 
 
