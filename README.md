@@ -2,7 +2,8 @@
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mikeybob&theme=nord_dark) 
 
 ### Hi there 👋 
-- I’m currently working on a private Django project.
+- I’m currently working on a private Django project. It was easier to code our own Matrix-Synapse functional replacement. 
+- Please do not ask me my opinion regarding Matrix-synapse, Element.io, or the Governance of the Matrix Foundation.
 
 
 
